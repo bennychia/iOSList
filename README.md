@@ -1,3 +1,7 @@
+#  Notice
+
+There is a problem when swipe it in a mobile device.
+
 #  iOSList 2.0.0
 
 iOS-style sticky headers with jQuery
